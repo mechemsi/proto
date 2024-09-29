@@ -1,0 +1,20 @@
+{
+    "name": "mechemsi/proto",
+    "type": "symfony-bundle",
+    "require": {
+        "google/protobuf": "^4.28",
+        "nelmio/api-doc-bundle": "^4.31"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mechemsi\\Proto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominykas",
+            "email": "dominykas.vilipas@gmail.com"
+        }
+    ]
+}
