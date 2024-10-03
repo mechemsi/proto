@@ -19,5 +19,12 @@
     ],
     "bin": [
         "bin/proto.sh"
+    ],
+    "repositories": [
+        {
+            "name": "mechemsi/form-handler",
+            "type": "vcs",
+            "url": "git@github.com:mechemsi/form-handler.git"
+        }
     ]
 }
