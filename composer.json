@@ -16,5 +16,8 @@
             "name": "Dominykas",
             "email": "dominykas.vilipas@gmail.com"
         }
+    ],
+    "bin": [
+        "bin/proto.sh"
     ]
 }
