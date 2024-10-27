@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9eab33db55fcaf1d8cf055dc12797439",
+    "content-hash": "08af1c5b15c47036b1baf1f0361865ec",
     "packages": [
         {
             "name": "doctrine/deprecations",
@@ -55,16 +55,16 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v4.28.2",
+            "version": "v4.28.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "96021a9a8a5aa7770427b1e7ef1b2e543792684e"
+                "reference": "c5c311e0f3d89928251ac5a2f0e3db283612c100"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/96021a9a8a5aa7770427b1e7ef1b2e543792684e",
-                "reference": "96021a9a8a5aa7770427b1e7ef1b2e543792684e",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/c5c311e0f3d89928251ac5a2f0e3db283612c100",
+                "reference": "c5c311e0f3d89928251ac5a2f0e3db283612c100",
                 "shasum": ""
             },
             "require": {
@@ -93,9 +93,9 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v4.28.2"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v4.28.3"
             },
-            "time": "2024-09-18T20:56:15+00:00"
+            "time": "2024-10-22T22:27:17+00:00"
         },
         {
             "name": "mechemsi/form-handler",
@@ -154,16 +154,16 @@
         },
         {
             "name": "nelmio/api-doc-bundle",
-            "version": "v4.31.0",
+            "version": "v4.32.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nelmio/NelmioApiDocBundle.git",
-                "reference": "322c47b9fa3c5913ec9bbeba537a32407151be73"
+                "reference": "c0a4aee62325be5a2ba101b53ac255bfb2069cc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nelmio/NelmioApiDocBundle/zipball/322c47b9fa3c5913ec9bbeba537a32407151be73",
-                "reference": "322c47b9fa3c5913ec9bbeba537a32407151be73",
+                "url": "https://api.github.com/repos/nelmio/NelmioApiDocBundle/zipball/c0a4aee62325be5a2ba101b53ac255bfb2069cc2",
+                "reference": "c0a4aee62325be5a2ba101b53ac255bfb2069cc2",
                 "shasum": ""
             },
             "require": {
@@ -264,7 +264,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nelmio/NelmioApiDocBundle/issues",
-                "source": "https://github.com/nelmio/NelmioApiDocBundle/tree/v4.31.0"
+                "source": "https://github.com/nelmio/NelmioApiDocBundle/tree/v4.32.3"
             },
             "funding": [
                 {
@@ -272,7 +272,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-24T13:56:25+00:00"
+            "time": "2024-10-25T14:07:25+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
