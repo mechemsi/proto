@@ -3,7 +3,8 @@
     "type": "symfony-bundle",
     "require": {
         "google/protobuf": "^4.0",
-        "mechemsi/form-handler": "dev-main"
+        "mechemsi/form-handler": "dev-main",
+        "nelmio/api-doc-bundle": "^4.0"
     },
     "license": "MIT",
     "autoload": {
@@ -26,8 +27,5 @@
             "type": "vcs",
             "url": "git@github.com:mechemsi/form-handler.git"
         }
-    ],
-    "require-dev": {
-        "nelmio/api-doc-bundle": "^4.0"
-    }
+    ]
 }
